@@ -1,0 +1,42 @@
+[
+    {
+        "address": "0xAb033ae98BEeB92C267D1f02E3963A424A02B406",
+        "chainId": 2001,
+        "decimals": 18,
+        "logoURI": "https://cdn.adaswap.com/tokens/asw.svg",
+        "name": "AdaSwap",
+        "symbol": "ASW"
+    },
+    {
+        "address": "0xae83571000af4499798d1e3b0fa0070eb3a3e3f9",
+        "chainId": 2001,
+        "decimals": 18,
+        "logoURI": "https://cdn.adaswap.com/tokens/ada.svg",
+        "name": "Wrapped ADA",
+        "symbol": "WADA"
+    },
+    {
+        "address": "0xE3F5a90F9cb311505cd691a46596599aA1A0AD7D",
+        "chainId": 2001,
+        "decimals": 18,
+        "logoURI": "https://cdn.adaswap.com/tokens/eth.svg",
+        "name": "Ethereum",
+        "symbol": "ETH"
+    },
+    {
+        "address": "0xB44a9B6905aF7c801311e8F4E76932ee959c663C",
+        "chainId": 2001,
+        "decimals": 6,
+        "logoURI": "https://cdn.adaswap.com/tokens/usdc.svg",
+        "name": "USDC",
+        "symbol": "USDC"
+    },
+    {
+        "address": "0x80A16016cC4A2E6a2CACA8a4a498b1699fF0f844",
+        "chainId": 2001,
+        "decimals": 6,
+        "logoURI": "https://cdn.adaswap.com/tokens/usdt.svg",
+        "name": "USDT",
+        "symbol": "USDT"
+    }
+]

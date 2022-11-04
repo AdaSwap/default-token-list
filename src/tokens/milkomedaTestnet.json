@@ -1,0 +1,66 @@
+[
+    {
+        "name": "Wrapped ADA",
+        "address": "0x65a51E52eCD17B641f8F0D1d56a6c9738951FDC9",
+        "symbol": "WADA",
+        "decimals": 18,
+        "chainId": 200101,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/ada.svg"
+    },
+    {
+        "address": "0x3B36983af88462839c1ea98BEEF4a9C49A6529C4",
+        "chainId": 200101,
+        "decimals": 18,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/goguen.svg",
+        "name": "Goguen",
+        "symbol": "Goguen"
+    },
+    {
+        "address": "0x402347899c5843393AE2fAA8fCce7bfcc2fD412D",
+        "chainId": 200101,
+        "decimals": 18,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/shelley.svg",
+        "name": "Shelley",
+        "symbol": "Shelley"
+    },
+    {
+        "address": "0x49841e38Bc9DA1317c3d5811E6fd8a1368a3Ee1E",
+        "chainId": 200101,
+        "decimals": 18,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/voltaire.svg",
+        "name": "Voltaire",
+        "symbol": "Voltaire"
+    },
+    {
+        "address": "0x5ab8A948729E888Bd08111Cb6353b93dA62b908f",
+        "chainId": 200101,
+        "decimals": 18,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/basho.svg",
+        "name": "Basho",
+        "symbol": "Basho"
+    },
+    {
+        "address": "0x6574bD81338236d7C4a68205e09b9991B9c13dB4",
+        "chainId": 200101,
+        "decimals": 18,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/byron.svg",
+        "name": "Byron",
+        "symbol": "Byron"
+    },
+    {
+        "address": "0xD9Bc92569C14C1FB62Ff0CeE95aCE5d5de4b36EA",
+        "chainId": 200101,
+        "decimals": 6,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/usdc.svg",
+        "name": "USDC",
+        "symbol": "USDC"
+    },
+    {
+        "address": "0xF33B9d4C3b1786c8C215188F8D9d6d679019CEc3",
+        "chainId": 200101,
+        "decimals": 6,
+        "logoURI": "https://cdn.testnet.adaswap.com/tokens/usdt.svg",
+        "name": "USDT",
+        "symbol": "USDT"
+    }
+]

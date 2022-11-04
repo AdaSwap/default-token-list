@@ -1,0 +1,32 @@
+{
+  "name": "@adaswap/default-token-list",
+  "version": "1.0.4",
+  "description": "📖 Adaswap default token list",
+  "main": "build/adaswap-default.tokenlist.json",
+  "scripts": {
+    "test": "mocha",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/adaswap-default.tokenlist.json",
+    "prepublishOnly": "npm run build"
+  },
+  "files": [
+    "build/adaswap-default.tokenlist.json"
+  ],
+  "repository": "https://github.com/AdaSwap/default-token-list",
+  "keywords": [
+    "adaswap",
+    "default",
+    "token",
+    "list"
+  ],
+  "author": "Truong troy",
+  "license": "GPL-3.0-or-later",
+  "devDependencies": {
+    "@ethersproject/address": "^5.0.2",
+    "@uniswap/token-lists": "^1.0.0-beta.29",
+    "@uniswap/token-list-bridge-utils": "^1.0.8",
+    "ajv": "^6.12.3",
+    "chai": "^4.2.0",
+    "mocha": "^8.0.1",
+    "rimraf": "^3.0.2"
+  }
+}
